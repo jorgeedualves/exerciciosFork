@@ -1,0 +1,8 @@
+PING google.com(2800:3f0:4001:826::200e (2800:3f0:4001:826::200e)) 56 data bytes
+64 bytes de 2800:3f0:4001:826::200e (2800:3f0:4001:826::200e): icmp_seq=1 ttl=117 tempo=9.01 ms
+64 bytes de 2800:3f0:4001:826::200e (2800:3f0:4001:826::200e): icmp_seq=2 ttl=117 tempo=11.8 ms
+64 bytes de 2800:3f0:4001:826::200e (2800:3f0:4001:826::200e): icmp_seq=3 ttl=117 tempo=8.87 ms
+
+--- google.com estatísticas de ping ---
+3 pacotes transmitidos, 3 recebidos, 0% perda de pacote, tempo 2002ms
+rtt min/avg/max/mdev = 8.879/10.145/12.553/1.703 ms
